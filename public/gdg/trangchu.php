@@ -99,7 +99,7 @@
       <div>
       <h1 style ="color: #f4511e;">Sự kiện mới </h1>
       <h3> Sự kiện I/O GDG Mekong</h3>
-      <img src ="image/10.jpg" alt = "image" />
+      <img src ="image/5.png" alt = "image" />
       <br>
       <small class="text-muted">Organized by GDG Mekong</small>
       <p> Sự kiện dành cho sinh viên học sinh</p>
@@ -107,7 +107,7 @@
       <div>
       <h1 style ="color: #f4511e;">Sự kiện đã diễn ra </h1>
       <p style="font-size: 20px"> Hướng dẫn dựng video chủ đề "kỷ niệm tuổi học trò" Trường THPT Hồ Thị Nhâm </p>
-      <img src="image/templatemo_image_01.jpg" alt="image" />
+      <img src="image/6.jpg" alt="image" />
       <br>
       <small class ="text-muted">Organized by GDG Mekong</small>
       </div>
@@ -141,9 +141,9 @@
       Địa chỉ: c15 khu dân cư Trần Khánh Dư, phường Xuân Khánh, quận Ninh Kiều, thành phố Cần Thơ.<br />
       Email: tt@gmail.com <br />
       SĐT: 07103840483  <br />
-      Face: <a href="//www.facebook.com/trinh.bui.3304673">Pig</a>
+      Face: <a href="//www.facebook.com/trinh.bui.3304673">Pig Bull</a>
     </p>
-    <footer>CHỈ CÓ THỂ LÀ PIG </footer>
+    <footer>CHỈ CÓ THỂ LÀ PIG BULL</footer>
   </div>
 <script>
 function w3_open() {
